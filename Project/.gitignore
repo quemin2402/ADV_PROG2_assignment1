@@ -1,0 +1,6 @@
+package Project
+
+.idea
+.vscode
+go.work
+.DS_Store
